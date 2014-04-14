@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Intro to Karel</title>
+	</head>
+	<body>
+	<h1>Introduction to Karel</h1>
+	<p>
+		<video src="../karelVids/01.01Intro.mp4">
+			<track kind="subtitles" src="../karelVids/01.01Intro_zh.srt" 
+			srclang="zh" label="Chinese">
+		</video>
+	</p>
+	</body>
+</html>
